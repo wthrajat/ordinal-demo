@@ -38,3 +38,16 @@ token.json: Path to your JSON manifest file.
 https://ordinals.com/inscription/f7fbabb618a35ea2f733ea89a6fd51864d4d58f38eb3bbb1ce67685d4b3a921ci0
 
 By clicking this you can check the ordinal on the ordinal explorer.
+
+
+#### Inscribe the mint
+
+```sh
+ord wallet inscribe mint.json --fee-rate 10 --destination <your_wallet_address>
+``` 
+
+#### Transferring the BRC-20 Tokens
+
+```sh
+ord wallet inscribe transfer.json --fee-rate 10 --destination <recipient_wallet_address>
+```
