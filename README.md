@@ -1,7 +1,7 @@
 # Ordinal Demo
 
 > [!WARNING]  
-> This demo is not done in BTC Mainnet.
+> This demo is not done in BTC Mainnet but on Testnet.
 
 
 The `token.json` looks like:
