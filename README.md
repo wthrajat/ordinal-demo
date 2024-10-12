@@ -1,4 +1,4 @@
-### Ordinal Demo
+# Ordinal Demo
 
 > [!WARNING]  
 > This demo is not done in BTC Mainnet.
