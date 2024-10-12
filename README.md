@@ -1,5 +1,8 @@
 ### Ordinal Demo
 
+> [!WARNING]  
+> This demo is not done in BTC Mainnet.
+
 
 The `token.json` looks like:
 
@@ -43,11 +46,11 @@ By clicking this you can check the ordinal on the ordinal explorer.
 #### Inscribe the mint
 
 ```sh
-ord wallet inscribe mint.json --fee-rate 10 --destination <your_wallet_address>
+ord wallet inscribe mint.json --fee-rate 10 --destination bc1q4hgfz3teart92zxcgr6xduj4uj8xkwzg6r28k2
 ``` 
 
 #### Transferring the BRC-20 Tokens
 
 ```sh
-ord wallet inscribe transfer.json --fee-rate 10 --destination <recipient_wallet_address>
+ord wallet inscribe transfer.json --fee-rate 10 --destination bc1q4hgfz3teart92zxcgr6xduj4uj8xkwzg6r30k4
 ```
