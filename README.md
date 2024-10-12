@@ -11,6 +11,13 @@ max: Maximum supply of tokens.
 lim: Maximum tokens a single user can mint per transaction.
 ```
 
+#### Note: Make sure you have `ord` installed:
+
+```sh
+curl --proto '=https' --tlsv1.2 -fsLS https://ordinals.com/install.sh | bash -s
+```
+
+
 ### Ord command
 
 ```sh
